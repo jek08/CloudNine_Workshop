@@ -2,10 +2,10 @@
 
 const projects = [
   {
-    title: "Project One",
-    description: "A beautiful website built with HTML, CSS, and JavaScript",
+    title: "Barangay Request System",
+    description: "Barangay Request System for barangay 58",
     tags: ["HTML", "CSS", "JavaScript"],
-    link: "#",
+    link: "https://barangay-58-pasay-city.vercel.app",
   },
   {
     title: "Project Two",
